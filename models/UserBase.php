@@ -8,8 +8,6 @@ class UserBase extends ActiveRecord {
 
 	public static function tableName()
 	{
-
 		return 'userBase';
-
 	}
 }
